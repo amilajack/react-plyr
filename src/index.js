@@ -290,7 +290,7 @@ class Plyr extends Component {
         kind={kind || "captions"}
         label={label}
         src={src}
-        srclang={srclang}
+        srcLang={srclang}
         default={def}
         {...attributes}
       />);
