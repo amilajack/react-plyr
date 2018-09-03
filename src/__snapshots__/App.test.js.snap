@@ -11,13 +11,13 @@ exports[`renders a simple HTML5 Video with Captions 1`] = `
     kind="captions"
     label="English captions"
     src="/path/to/english-captions.vtt"
-    srclang="en"
+    srcLang="en"
   />
   <track
     kind="captions"
     label="Spanish captions"
     src="/path/to/spanish-captions.vtt"
-    srclang="es"
+    srcLang="es"
   />
 </video>
 `;
